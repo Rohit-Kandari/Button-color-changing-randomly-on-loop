@@ -1,5 +1,7 @@
 # Button-color-changing-randomly-on-loop
-Button background will change automatically with random colors or second is with array colors
+Here is two ways to change colors automatically in loop.
+First is Math.floor() method here this function will pickup random colors.
+And Second Method is array, in array we can give colors name/code list in form of array ,which we want.
 
 
 <button type="button" id="background">i am Chameleons</button>
