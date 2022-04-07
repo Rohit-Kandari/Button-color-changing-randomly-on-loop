@@ -3,8 +3,9 @@ Button background will change automatically with random colors or second is with
 
 <button type="button" id="background">i am Chameleons</button>
 
-<script type="text/javascript">
-
+<prev>
+  <script type="text/javascript">
+    </prev>
 var i = 0;
 function change() {
   var doc = document.getElementById("background");
