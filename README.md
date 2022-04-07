@@ -1,14 +1,6 @@
 # Button-color-changing-randomly-on-loop
 Button background will change automatically with random colors or second is with array colors
 
-
-<!DOCTYPE html>
-<html>
-<head>
-
-</head>
-<body>
-
 <button type="button" id="background">i am Chameleons</button>
 
 <script type="text/javascript">
@@ -23,6 +15,3 @@ function change() {
 }
 setInterval(change, 1000);
 </script>
-
-</body>
-</html>
